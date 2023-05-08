@@ -3,3 +3,29 @@
     CODE YOUR STYLES BELOW!
 
    ====================================== */
+
+.layout1 main {
+    display: flex;
+}
+
+.layout1 article {
+    margin-inline-end: 2%;
+    width: 68%;
+}
+
+.layout2 main {
+    display: flex;
+}
+
+.layout2 article {
+    margin-inline: 2%;
+} 
+
+.layout3 .articles {
+    display: flex;
+}
+
+.layout3 article {
+    margin-inline: 1%;
+    margin-block-end: 0;
+}
